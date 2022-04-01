@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #Página de revisão da aula sobre git.
 ## Uso do markdown
 ### h3
@@ -34,3 +35,6 @@ lista de tarefas a fazer no repositorio:
 
 * [Documentação do github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
 '
+=======
+Página de revisão da aula sobre git.
+>>>>>>> 0b53955d6e7794d7cbd9e77beee31aaf7260c0cd
