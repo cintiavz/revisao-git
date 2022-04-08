@@ -31,6 +31,14 @@ lista de tarefas a fazer no repositorio:
 
 - [ ] ler a documentação do git/github
 
+## BRANCHS
+git branch -> LISTA AS BRANCHS NO COMPUTADOR
+
+git branch nome_da_nova_branch -> não colocar acento ou ç, e use undescore para os espaços em branco
+
+git swith nome_da_branch -> muda de branch
+
+método alternativo para o GIT SWITH: git checkout nome_da_branch
 ## Referências
 
 * [Documentação do github](https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#headings)
